@@ -11,7 +11,7 @@ My robot finished **1st place **
 
 ## 🎮 Videos
 ![Code Overview](media/robocode_code.gif)
-![Demo](media/media/demo_v2.gif)
+![Demo](media/demo_v2.gif)
 
 ---
 
